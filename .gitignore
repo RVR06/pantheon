@@ -1,0 +1,11 @@
+# structurizr
+**/.structurizr/
+**/workspace.json
+
+# radar
+**/.techradar
+**/node_modules/
+**/build/
+_radar/build/
+_radar/node_modules/
+Heraldry.Web/wwwroot/js/heraldry.js*
