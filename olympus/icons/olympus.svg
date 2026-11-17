@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="-14 -14 28 28">
+  <title>Olympus</title>
+  <g fill="none" stroke="#1E88E5" stroke-width="1.2" stroke-linejoin="round">
+    <path d="M-12 10L-4-4L0 2L5-8L12 10Z"/>
+    <path d="M2.800-4.500L5-8L7.200-4.500"/>
+  </g>
+  <circle cx="-6" cy="-9" r="2.200" fill="#1E88E5"/>
+</svg>

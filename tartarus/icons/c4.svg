@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="848"
+   height="668"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="home_c4.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:lucid="lucid">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffdeff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.50654762"
+     inkscape:cx="396.80376"
+     inkscape:cy="143.12573"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     lucid:page-tab-id="EPFwlCPlwKYT"
+     stroke-width="3"
+     id="g14"
+     transform="translate(-16,-156)">
+    <path
+       d="m 20,166 c 0,-3.3 2.7,-6 6,-6 h 828 c 3.3,0 6,2.7 6,6 v 648 c 0,3.3 -2.7,6 -6,6 H 26 c -3.3,0 -6,-2.7 -6,-6 z"
+       stroke="#0c7cba"
+       fill-opacity="0"
+       id="path4"
+       style="fill:none;stroke:#08427B;stroke-width:20;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 54.80611,316.12926 c 0,-3.3 2.7,-6 6,-6 h 648 c 3.3,0 6,2.7 6,6 v 468 c 0,3.3 -2.7,6 -6,6 h -648 c -3.3,0 -6,-2.7 -6,-6 z"
+       stroke="#c92d39"
+       fill-opacity="0"
+       id="path6"
+       style="fill:none;stroke:#08427B;stroke-width:20;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 98.025852,462.47474 c 0,-3.3 2.699998,-6 5.999998,-6 h 428.00001 c 3.3,0 6,2.7 6,6 v 288 c 0,3.3 -2.7,6 -6,6 H 104.02585 c -3.3,0 -5.999998,-2.7 -5.999998,-6 z"
+       stroke="#7ab648"
+       fill-opacity="0"
+       id="path9"
+       style="fill:none;stroke:#08427B;stroke-width:20;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

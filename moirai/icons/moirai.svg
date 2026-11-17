@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="-14 -14 28 28">
+  <title>Moirai</title>
+  <g fill="none" stroke="#D4A017" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-10-10C-4-4 4-4 0 0S-4 6 0 12"/>
+    <path d="M0-12C-6-6-4 0 0 0S6 6 0 12" transform="rotate(0)"/>
+    <path d="M10-10C4-4-4-4 0 0S4 6 0 12"/>
+  </g>
+  <circle r="2.200" fill="#D4A017"/>
+</svg>

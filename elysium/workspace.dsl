@@ -47,7 +47,7 @@ workspace "Elysium" "The blessed realm: citizen app, activity feed and recommend
 			}
 		}
 		
-		hero = person "Hero" "A living mortal who visits the realms and uses the Elysium citizen app." "#soul" {
+		hero = person "Hero" "A living mortal who visits the realms and uses the Elysium citizen app." "" {
 			-> elysium "browses the feed on"
 			-> elysium.app "browses the feed on"
 			-> elysium.fields "browses the feed on"
@@ -63,14 +63,8 @@ workspace "Elysium" "The blessed realm: citizen app, activity feed and recommend
 		}
 		
 		styles {
-			element "#soul" {
-				stroke #4F6FA0
-			}
 			element "#worker" {
 				shape RoundedBox
-			}
-			element "#search" {
-				shape Ellipse
 			}
 			element "#elysium" {
 				stroke #e0a526

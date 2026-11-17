@@ -44,7 +44,7 @@ workspace "Asphodel" "The meadow of the ordinary dead: analytics lake, warehouse
 			}
 		}
 		
-		aeacus = person "Aeacus" "A judge of the dead who audits consent and erasure requests." "#soul" {
+		aeacus = person "Aeacus" "A judge of the dead who audits consent and erasure requests." "" {
 			-> asphodel "reviews usage in"
 			-> asphodel.dashboards "reviews usage in"
 		}
@@ -59,9 +59,6 @@ workspace "Asphodel" "The meadow of the ordinary dead: analytics lake, warehouse
 		}
 		
 		styles {
-			element "#soul" {
-				stroke #4F6FA0
-			}
 			element "#worker" {
 				shape RoundedBox
 			}
