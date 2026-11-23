@@ -35,7 +35,7 @@ workspace "Da Pantheon" "Cloud landscape." {
 			-> olympus "Asks for a journey from"
 			-> elysium "Follows her journey on"
 		}
-		hades = person "Hades" "Lord of the pantheon: reads its census and health, and orders where its journeys must go next." {
+		zeus = person "Zeus" "Lord of the pantheon, the One: reads its census and health, and orders where its journeys must go next." "bearer:eagle" {
 			-> erebos "Checks the pantheon's health in"
 			-> asphodel "Reads the census in"
 			-> olympus "Orders new plans from"
@@ -67,10 +67,10 @@ workspace "Da Pantheon" "Cloud landscape." {
 			elysium -> asphodel "Streams her engagement events"
 		}
 
-		dynamic * "HadesRound" "Hades' round: health, census, then new orders that reshape running journeys." {
-			hades -> erebos "Checks the pantheon's health"
-			hades -> asphodel "Reads the census of souls and activity"
-			hades -> olympus "Orders a new plan"
+		dynamic * "ZeusRound" "Zeus' round from the summit: health, census, then thunderous orders that reshape running journeys." {
+			zeus -> erebos "Checks the pantheon's health"
+			zeus -> asphodel "Reads the census of souls and activity"
+			zeus -> olympus "Orders a new plan"
 			olympus -> moirai "Re-spins the affected journeys"
 			moirai -> erebos "Reports progress and failures"
 		}
