@@ -28,17 +28,6 @@ workspace "Da Pantheon" "Cloud landscape." {
 		tartarus = softwareSystem "Tartarus" "The Underworld spike." "#tartarus" {
 			url "tartarus/workspace.dsl"
 		}
-		
-		aeacus = person "Aeacus" "A platform engineer who runs the pantheon and reads its telemetry." "" {
-			-> asphodel "reviews usage in"
-			-> asphodel.dashboards "reviews usage in"
-		}
-		
-		hero = person "Hero" "A living mortal who visits the realms and uses the Elysium citizen app." "#soul" {
-			-> elysium "browses the feed on"
-			-> elysium.app "browses the feed on"
-			-> elysium.fields "browses the feed on"
-		}
 	}
 	
 	views {
