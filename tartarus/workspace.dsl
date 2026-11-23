@@ -174,9 +174,6 @@ workspace "Tartarus" "The Underworld spike: auth, messaging, persistence and thr
 			element "#soul" {
 				stroke #4F6FA0
 			}
-			element "External" {
-				background #999999
-			}
 			element "#blazor" {
 				stroke #5a2d8e
 				icon icons/blazor.svg

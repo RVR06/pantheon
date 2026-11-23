@@ -76,9 +76,6 @@ workspace "Olympus" "The pantheon's control plane: gateway, planning, orchestrat
 		}
 		
 		styles {
-			element "External" {
-				background #999999
-			}
 			element "#cli" {
 				shape Terminal
 			}
@@ -86,7 +83,7 @@ workspace "Olympus" "The pantheon's control plane: gateway, planning, orchestrat
 				shape Folder
 			}
 			element "#gateway" {
-				shape Hexagon
+				shape RoundedBox
 			}
 			element "#olympus" {
 				stroke #1E88E5
